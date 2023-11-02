@@ -1,0 +1,22 @@
+img{
+    height: 300px;
+    width: auto;
+}
+
+body {
+    background-color: rgb(1, 76, 1);
+}
+
+#game h2, #game p {
+    color: white;
+}
+
+header {
+    background-color: black;
+    color: white;
+    height: 55px;
+}
+
+.dealer-info, .dealer-score, .player-info, .player-score{
+    font-size: 20px;
+}
